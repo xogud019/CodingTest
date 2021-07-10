@@ -114,6 +114,11 @@ Eliminate Maximum Number of Monsters4
 Count Good Numbers4
 Longest Common Subpath
 
+Count Square Sum Triples3
+Nearest Exit from Entrance in Maze4
+Sum Game5
+Minimum Cost to Reach Destination in Time
+
 June
 Paint House
 Interleaving String
@@ -145,3 +150,5 @@ Candy
 July
 Find K Closest Elements
 Count Vowels Permutation
+Decode Ways II
+Decode Ways
