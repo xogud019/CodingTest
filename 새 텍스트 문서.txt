@@ -114,6 +114,16 @@ Eliminate Maximum Number of Monsters4
 Count Good Numbers4
 Longest Common Subpath
 
+Count Square Sum Triples3
+Nearest Exit from Entrance in Maze4
+Sum Game5
+Minimum Cost to Reach Destination in Time
+
+Concatenation of Array3
+Unique Length-3 Palindromic Subsequences4
+Painting a Grid With Three Different Colors6
+Merge BSTs to Create Single BST
+
 June
 Paint House
 Interleaving String
